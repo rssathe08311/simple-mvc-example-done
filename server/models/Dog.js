@@ -1,4 +1,4 @@
-//Dog class 
+// Dog class 
 const mongoose = require('mongoose');
 
 let DogModel = {};
